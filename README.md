@@ -49,3 +49,8 @@ This theme is licensed under the [MIT License](LICENSE).
 
 Enjoy a calm and focused coding journey with **Nebula Calm**!
 # og-nebula
+
+## License
+
+This theme is licensed under the [MIT License](./LICENSE).
+

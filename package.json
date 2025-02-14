@@ -1,0 +1,28 @@
+{
+  "name": "og-nebula",
+  "displayName": "OG-Nebula",
+  "description": "Nebula Calm is a serene and clean VS Code theme inspired by the mesmerizing hues of a space nebula. With soft gradients of deep purples, blues, and starry whites, this theme creates a soothing coding experience that promotes focus and creativity. Ideal for developers who love the tranquility of space combined with a modern, minimalist design.",
+  "version": "0.0.2",
+  "publisher": "oGwola",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chasehoff/og-nebula"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula-color-theme.json"
+      }
+    ]
+  }
+}
